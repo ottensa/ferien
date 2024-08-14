@@ -1,0 +1,30 @@
+#calender {
+    max-width: fit-content;
+    margin: auto;
+}
+
+.day-label {
+    height: 1.5rem;
+    width: 1.5rem;
+    margin: 5px;
+    text-align: center;
+}
+
+.month-label {
+    width: 7rem;
+}
+
+.month {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.day {
+    height: 1.5rem;
+    width: 1.5rem;
+    margin: 5px;
+}
+
+.header {
+    text-align: center;
+}
